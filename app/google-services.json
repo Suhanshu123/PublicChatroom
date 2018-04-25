@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "85442768993",
+    "firebase_url": "https://authfirebase-3637e.firebaseio.com",
+    "project_id": "authfirebase-3637e",
+    "storage_bucket": "authfirebase-3637e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85442768993:android:0069fb3c9deac79e",
+        "android_client_info": {
+          "package_name": "com.example.android.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85442768993-976c2jtpdes6rp5o1vmjd66omh1dcdr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjD5TadpArYWyk8Bp5lsVo9w1Z1jvSW9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

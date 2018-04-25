@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.authfirebase.ProfileActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:id="@+id/sign_out_button"
+        android:onClick="sign_out"
+        android:text="Sign Out"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:id="@+id/account_setting_button"
+        android:onClick="account_settings"
+        android:text="Account Settings"/>
+
+    <TextView
+        android:id="@+id/email_of_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email-id is here!!!"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:layout_marginTop="30dp"/>
+    <TextView
+        android:id="@+id/name_of_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name is here!!!"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:layout_marginTop="30dp"/>
+    <TextView
+        android:id="@+id/uid_of_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="UID is here!!!"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:layout_marginTop="30dp"/>
+    <TextView
+        android:id="@+id/phone_of_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Phone is here!!!"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reset Password"
+        android:onClick="reset_password"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reset email"
+        android:onClick="reset_email"
+        android:layout_marginTop="20dp"/>
+
+
+</LinearLayout>
