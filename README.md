@@ -1,6 +1,6 @@
 ## ChatroomFirebase
 
-I did course on Plurasight and made this android application in which user can create their own chatrooms and can talk to other person
+I  made this android application in which user can create their own chatrooms and can talk to other person
 who are using this application.
 
 ![screenshot_2018-04-25-23-11-15](https://user-images.githubusercontent.com/25812257/39267776-73e673a0-48eb-11e8-9899-3c668d7d31e8.png)
