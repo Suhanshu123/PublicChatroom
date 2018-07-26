@@ -1,4 +1,4 @@
-## PublicChatroom
+## Public Chatroom Using Firebase
 
 I  made this android application in which user can create their own chatrooms and can talk to other person
 who are using this application.
